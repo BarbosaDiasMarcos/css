@@ -1,6 +1,4 @@
-*{background-color: aqua;}
-
- h1{
+    h1{
         color: red;
         background:chocolate ;
     }
@@ -13,3 +11,5 @@
         background: blueviolet;
         border-color: black;
     }
+    
+
